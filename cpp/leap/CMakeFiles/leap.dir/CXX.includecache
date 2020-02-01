@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amr/Projects/Exercism/cpp/leap/leap.cpp
+leap.h
+/Users/amr/Projects/Exercism/cpp/leap/leap.h
+
+/Users/amr/Projects/Exercism/cpp/leap/leap.h
+
